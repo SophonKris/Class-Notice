@@ -1,0 +1,2966 @@
+[ 2017-01-16T10:34:48+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015811s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010186s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-01-16T10:35:01+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-01-16T10:35:24+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-01-16T10:35:27+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000861s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-01-16T10:35:48+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.104816s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.104930s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.024997s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.025147s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008258s ]
+
+[ 2017-01-16T10:41:51+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001422s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015145s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002602s ]
+
+[ 2017-01-16T10:42:14+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000231s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000421s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019018s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001186s ]
+
+[ 2017-01-16T10:42:52+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001931s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000422s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011082s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011205s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001119s ]
+
+[ 2017-01-16T10:43:13+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000850s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000264s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000456s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012180s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012299s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001495s ]
+
+[ 2017-01-16T10:43:23+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000273s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000405s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010921s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001401s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000990s ]
+
+[ 2017-01-16T10:43:36+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001104s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000249s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010295s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001117s ]
+
+[ 2017-01-16T10:43:37+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001415s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000231s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000485s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001305s ]
+
+[ 2017-01-16T10:44:01+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000834s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000382s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000725s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013342s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000615s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001838s ]
+
+[ 2017-01-16T10:46:10+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001331s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000342s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000872s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018060s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018222s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001269s ]
+
+[ 2017-01-16T10:46:48+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001543s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000227s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010782s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010941s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001206s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001390s ]
+
+[ 2017-01-16T10:47:50+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001812s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010233s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010397s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000744s ]
+
+[ 2017-01-16T10:55:33+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008652s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008814s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000994s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001246s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001399s ]
+
+[ 2017-01-16T10:55:52+08:00 ] ::1 /class/index.php/Admin/Notice/notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+ERR: 无法加载控制器:Notice
+
+[ 2017-01-16T10:58:06+08:00 ] ::1 /class/index.php/Admin/Notice/notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载控制器:Notice
+
+[ 2017-01-16T10:58:06+08:00 ] ::1 /class/index.php/Admin/Notice/notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+ERR: 无法加载控制器:Notice
+
+[ 2017-01-16T10:58:07+08:00 ] ::1 /class/index.php/Admin/Notice/notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+ERR: 无法加载控制器:Notice
+
+[ 2017-01-16T10:58:26+08:00 ] ::1 /class/index.php/Admin/Notice/donotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+ERR: 无法加载控制器:Notice
+
+[ 2017-01-16T10:58:34+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载控制器:Notice
+
+[ 2017-01-16T10:59:14+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+
+[ 2017-01-16T11:01:01+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001270s ]
+
+[ 2017-01-16T11:01:18+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:02:56+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2017-01-16T11:03:07+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:03:09+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:05:34+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:05:35+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:05:35+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001283s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:05:36+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001526s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:05:36+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:05:37+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000180s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001887s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:05:37+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:05:37+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:05:38+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:05:38+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:05:38+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001464s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:06:12+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001039s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:06:13+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001004s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:06:14+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:08+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001545s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:09+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000870s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:09+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:14+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002187s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:15+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:16+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:16+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:16+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000987s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:17+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:17+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:17+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:18+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:18+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:19+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:22+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:23+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001396s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:27+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:07:31+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001027s ]
+
+[ 2017-01-16T11:07:41+08:00 ] ::1 /class/index.php/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001470s ]
+ERR: 非法操作:index
+
+[ 2017-01-16T11:08:53+08:00 ] ::1 /class/index.php/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+
+[ 2017-01-16T11:08:55+08:00 ] ::1 /class/index.php/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001772s ]
+
+[ 2017-01-16T11:09:14+08:00 ] ::1 /class/index.php/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+ERR: 模板不存在:./Application/Admin/View/Notice/index.html
+
+[ 2017-01-16T11:09:16+08:00 ] ::1 /class/index.php/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+ERR: 模板不存在:./Application/Admin/View/Notice/index.html
+
+[ 2017-01-16T11:10:18+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:11:33+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:11:34+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:11:35+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:11:35+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:11:36+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001032s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:22:32+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015529s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:22:33+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:22:34+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:22:34+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000696s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T11:22:35+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:15:04+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:15:05+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001274s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:15:05+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:15:06+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:16:21+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:16:21+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:16:22+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:16:22+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:16:23+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:16:23+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:16:24+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:19:51+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:19:52+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:19:52+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000291s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001407s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:19:52+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+ERR: 无法加载数据库驱动: Think\Db\Driver\
+
+[ 2017-01-16T13:24:46+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2017-01-16T13:25:22+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-01-16T13:25:38+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+
+[ 2017-01-16T13:25:52+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2017-01-16T13:25:53+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-01-16T13:25:54+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+
+[ 2017-01-16T13:25:55+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001867s ]
+
+[ 2017-01-16T13:26:01+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001136s ]
+
+[ 2017-01-16T13:26:02+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2017-01-16T13:26:02+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+
+[ 2017-01-16T13:26:03+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001417s ]
+
+[ 2017-01-16T13:27:43+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:27:48+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:28:16+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `notice`
+
+[ 2017-01-16T13:28:17+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `notice`
+
+[ 2017-01-16T13:28:19+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `notice`
+
+[ 2017-01-16T13:29:24+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:29:25+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000970s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:29:25+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:29:26+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:34:06+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:34:06+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:34:07+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:34:08+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:34:09+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:34:09+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000472s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001871s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:34:09+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:36:22+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001347s ]
+
+[ 2017-01-16T13:44:15+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:44:43+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:44:43+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:47:47+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001119s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:47:48+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:47:48+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:47:49+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T13:49:32+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000994s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T13:49:35+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001695s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T13:49:39+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001311s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T13:50:00+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T13:50:01+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T13:50:01+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T13:50:02+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T13:50:03+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T13:54:15+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T13:54:16+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T13:54:17+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T13:54:17+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T13:54:18+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+ERR: SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+[ 2017-01-16T14:05:15+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T14:05:17+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T14:07:19+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T14:07:20+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T14:07:21+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T14:08:49+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T14:08:50+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T14:08:50+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `class_notice`
+
+[ 2017-01-16T14:09:25+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000591s ]
+
+[ 2017-01-16T14:09:28+08:00 ] ::1 /class/index.php/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 模板不存在:./Application/Admin/View/Notice/index.html
+
+[ 2017-01-16T14:18:13+08:00 ] ::1 /class/index.php/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+ERR: 模板不存在:./Application/Admin/View/Notice/index.html
+
+[ 2017-01-16T14:18:20+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-01-16T14:18:23+08:00 ] ::1 /class/index.php/Admin/Notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+ERR: 模板不存在:./Application/Admin/View/Notice/index.html
+
+[ 2017-01-16T14:24:29+08:00 ] ::1 /class/index.php/Admin/Notice/notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+
+[ 2017-01-16T14:24:37+08:00 ] ::1 /class/index.php/Admin/Notice/notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-01-16T14:24:38+08:00 ] ::1 /class/index.php/Admin/Notice/notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-01-16T14:25:10+08:00 ] ::1 /class/index.php/Admin/Notice/notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+
+[ 2017-01-16T14:25:11+08:00 ] ::1 /class/index.php/Admin/Notice/notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001211s ]
+
+[ 2017-01-16T14:25:12+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T14:25:12+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T14:25:50+08:00 ] ::1 /class/index.php/Admin/Notice/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2017-01-16T14:25:50+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T14:26:31+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001147s ]
+
+[ 2017-01-16T14:26:32+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000901s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T14:26:40+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+ERR: 1048:Column 'id' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`name`,`title`,`content`,`type`,`upload`,`level`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+[ 2017-01-16T14:26:40+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T14:27:04+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+ERR: 1048:Column 'id' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`name`,`title`,`content`,`type`,`upload`,`level`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+[ 2017-01-16T14:27:04+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 1048:Column 'id' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`name`,`title`,`content`,`type`,`upload`,`level`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+
+[ 2017-01-16T14:27:07+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2017-01-16T14:27:07+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+
+[ 2017-01-16T14:27:08+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-01-16T14:27:08+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+
+[ 2017-01-16T14:28:31+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-01-16T14:29:59+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001445s ]
+
+[ 2017-01-16T14:30:02+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2017-01-16T14:31:05+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+
+[ 2017-01-16T14:31:06+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2017-01-16T14:31:27+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+
+[ 2017-01-16T14:34:27+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-01-16T14:35:04+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000518s ]
+ERR: 1048:Column 'id' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`name`,`title`,`content`,`type`,`upload`,`level`) VALUES (NULL,NULL,'',NULL,NULL,NULL,NULL)
+
+[ 2017-01-16T14:35:29+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+ERR: 1048:Column 'id' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`name`,`title`,`content`,`type`,`upload`,`level`) VALUES (NULL,NULL,'eternal',NULL,NULL,NULL,NULL)
+
+[ 2017-01-16T14:36:01+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 1048:Column 'id' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`name`,`title`,`content`,`type`,`upload`,`level`) VALUES (NULL,NULL,'eternal',NULL,NULL,NULL,NULL)
+
+[ 2017-01-16T14:36:04+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 1048:Column 'id' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`name`,`title`,`content`,`type`,`upload`,`level`) VALUES (NULL,NULL,'eternal',NULL,NULL,NULL,NULL)
+
+[ 2017-01-16T14:36:06+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 1048:Column 'id' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`name`,`title`,`content`,`type`,`upload`,`level`) VALUES (NULL,NULL,'eternal',NULL,NULL,NULL,NULL)
+
+[ 2017-01-16T14:38:28+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2017-01-16T14:39:40+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001182s ]
+ERR: 1048:Column 'id' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`name`,`title`,`content`,`type`,`upload`,`level`) VALUES (NULL,NULL,'','<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 8px 0px; color: rgb(64, 64, 64); font-family: 微软雅黑; line-height: 27.2px; white-space: normal; background-color: rgb(255, 255, 255);\">OneThink是一个开源的内容管理框架，基于最新的ThinkPHP3.2版本开发，提供更方便、更安全的WEB应用开发体验，采用了全新的架构设计和命名空间机制，融合了模块化、驱动化和插件化的设计理念于一体，开启了国内WEB应用傻瓜式开发的新潮流。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 8px 0px; color: rgb(64, 64, 64); font-family: 微软雅黑; line-height: 27.2px; white-space: normal; background-color: rgb(255, 255, 255);\"><img src=\"/ueditor/php/upload/image/20170116/1484548776485484.png\" alt=\"52ad8720bfa1e\"/></p><p><br/></p>',NULL,NULL,NULL)
+
+[ 2017-01-16T14:40:23+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`name`,`title`,`content`,`type`,`upload`,`level`) VALUES (NULL,NULL,'','<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 8px 0px; color: rgb(64, 64, 64); font-family: 微软雅黑; line-height: 27.2px; white-space: normal; background-color: rgb(255, 255, 255);\">OneThink是一个开源的内容管理框架，基于最新的ThinkPHP3.2版本开发，提供更方便、更安全的WEB应用开发体验，采用了全新的架构设计和命名空间机制，融合了模块化、驱动化和插件化的设计理念于一体，开启了国内WEB应用傻瓜式开发的新潮流。</p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 8px 0px; color: rgb(64, 64, 64); font-family: 微软雅黑; line-height: 27.2px; white-space: normal; background-color: rgb(255, 255, 255);\"><img src=\"/ueditor/php/upload/image/20170116/1484548776485484.png\" alt=\"52ad8720bfa1e\"/></p><p><br/></p>',NULL,NULL,NULL)
+
+[ 2017-01-16T14:53:32+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2017-01-16T14:55:52+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2017-01-16T14:56:17+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+
+[ 2017-01-16T14:57:50+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+
+[ 2017-01-16T14:57:53+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2017-01-16T14:58:24+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-01-16T14:59:27+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-01-16T14:59:31+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2017-01-16T14:59:55+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+
+[ 2017-01-16T15:00:11+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000811s ]
+
+[ 2017-01-16T15:01:12+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000643s ]
+
+[ 2017-01-16T15:01:14+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-01-16T15:01:25+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2017-01-16T15:01:46+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+
+[ 2017-01-16T15:01:56+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+
+[ 2017-01-16T15:02:48+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-01-16T15:02:49+08:00 ] ::1 /class/index.php/Admin/Act/act.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 无法加载控制器:Act
+
+[ 2017-01-16T15:03:32+08:00 ] ::1 /class/index.php/Admin/Act/act.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载控制器:Act
+
+[ 2017-01-16T15:03:33+08:00 ] ::1 /class/index.php/Admin/Act/act.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+ERR: 无法加载控制器:Act
+
+[ 2017-01-16T15:03:36+08:00 ] ::1 /class/index.php/Admin/Act/act.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载控制器:Act
+
+[ 2017-01-16T15:03:40+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+
+[ 2017-01-16T15:03:41+08:00 ] ::1 /class/index.php/Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+
+[ 2017-01-16T15:04:08+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+ERR: 1048:Column 'name' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`name`,`title`,`content`,`type`,`upload`,`level`,`time`) VALUES (NULL,NULL,'',NULL,NULL,NULL,NULL,'1484550248')
+
+[ 2017-01-16T15:05:36+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+ERR: 1048:Column 'content' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`title`,`content`,`type`,`upload`,`level`,`time`) VALUES (NULL,'',NULL,NULL,NULL,NULL,'1484550336')
+
+[ 2017-01-16T15:09:33+08:00 ] ::1 /class/index.php/Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-01-16T15:10:22+08:00 ] ::1 /class/index.php/Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-01-16T15:10:55+08:00 ] ::1 /class/index.php/Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-01-16T15:13:43+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 1048:Column 'type' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`title`,`content`,`type`,`upload`,`level`,`time`) VALUES (NULL,'jiaowuwang','<p>ceshi</p>',NULL,NULL,NULL,'1484550823')
+
+[ 2017-01-16T15:14:58+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+ERR: 1048:Column 'upload' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`title`,`content`,`type`,`upload`,`level`,`time`) VALUES (NULL,'jiaowuwang','<p>ceshi</p>','0',NULL,NULL,'1484550898')
+
+[ 2017-01-16T15:15:54+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+ERR: 1048:Column 'upload' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`title`,`content`,`type`,`upload`,`level`,`time`) VALUES (NULL,'jiaowuwang','<p>ceshi</p>','0',NULL,NULL,'1484550954')
+
+[ 2017-01-16T15:15:58+08:00 ] ::1 /class/index.php/Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+
+[ 2017-01-16T15:16:46+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+ERR: 1048:Column 'level' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`title`,`content`,`type`,`upload`,`level`,`time`) VALUES (NULL,'beshi','<p>ceshi</p>','3',NULL,NULL,'1484551006')
+
+[ 2017-01-16T15:17:14+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+
+[ 2017-01-16T15:17:17+08:00 ] ::1 /class/index.php/Admin/notice/notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+ERR: 非法操作:notice
+
+[ 2017-01-16T15:18:42+08:00 ] ::1 /class/index.php/Admin/notice/notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000636s ]
+ERR: 非法操作:notice
+
+[ 2017-01-16T15:18:42+08:00 ] ::1 /class/index.php/Admin/notice/notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+ERR: 非法操作:notice
+
+[ 2017-01-16T15:18:46+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000757s ]
+ERR: 1048:Column 'title' cannot be null
+ [ SQL语句 ] : INSERT INTO `class_notice` (`id`,`title`,`content`,`type`,`upload`,`level`,`time`) VALUES (NULL,NULL,NULL,NULL,NULL,NULL,'1484551126')
+
+[ 2017-01-16T15:18:52+08:00 ] ::1 /class/index.php/Admin/notice/notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+ERR: 非法操作:notice
+
+[ 2017-01-16T15:18:55+08:00 ] ::1 /class/index.php/Admin/notice/notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+ERR: 非法操作:notice
+
+[ 2017-01-16T15:18:58+08:00 ] ::1 /class/index.php/Admin/notice/notice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000213s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001686s ]
+ERR: 非法操作:notice
+
+[ 2017-01-16T15:19:06+08:00 ] ::1 /class/index.php/Admin/Notice/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-01-16T15:19:23+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2017-01-16T15:19:26+08:00 ] ::1 /class/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+
+[ 2017-01-16T15:21:41+08:00 ] ::1 /class/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-01-16T15:26:26+08:00 ] ::1 /class/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-01-16T15:28:15+08:00 ] ::1 /class/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2017-01-16T15:28:16+08:00 ] ::1 /class/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+
+[ 2017-01-16T15:28:28+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000810s ]
+
+[ 2017-01-16T15:29:50+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+
+[ 2017-01-16T15:30:05+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2017-01-16T15:30:06+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+
+[ 2017-01-16T15:30:56+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: Think\Model:relation方法不存在！
+
+[ 2017-01-16T15:31:08+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+
+[ 2017-01-16T15:32:40+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2017-01-16T15:33:22+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000924s ]
+
+[ 2017-01-16T15:33:24+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+
+[ 2017-01-16T15:33:26+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000274s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001448s ]
+
+[ 2017-01-16T15:34:05+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+
+[ 2017-01-16T15:35:20+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2017-01-16T15:35:32+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2017-01-16T15:35:34+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001117s ]
+
+[ 2017-01-16T15:53:16+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001087s ]
+
+[ 2017-01-16T15:53:19+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+
+[ 2017-01-16T15:53:32+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000964s ]
+
+[ 2017-01-16T15:54:19+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000452s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001259s ]
+
+[ 2017-01-16T15:55:01+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000778s ]
+
+[ 2017-01-16T15:56:13+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+
+[ 2017-01-16T15:57:20+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2017-01-16T15:58:31+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001722s ]
+
+[ 2017-01-16T15:59:12+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+
+[ 2017-01-16T16:00:18+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-01-16T16:01:07+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+
+[ 2017-01-16T16:10:14+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+
+[ 2017-01-16T16:10:41+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000971s ]
+
+[ 2017-01-16T16:17:23+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+
+[ 2017-01-16T16:17:51+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+
+[ 2017-01-16T16:21:34+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-01-16T16:23:23+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+
+[ 2017-01-16T16:23:26+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001210s ]
+ERR: 模板不存在:./Application/Admin/View/Notice/select.html
+
+[ 2017-01-16T16:28:32+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2017-01-16T16:29:09+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+
+[ 2017-01-16T16:29:25+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+
+[ 2017-01-16T16:33:06+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+
+[ 2017-01-16T16:34:31+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-01-16T16:34:36+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001105s ]
+
+[ 2017-01-16T16:34:55+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000605s ]
+
+[ 2017-01-16T16:35:31+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000906s ]
+
+[ 2017-01-16T16:35:55+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+
+[ 2017-01-16T16:35:57+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-01-16T16:38:02+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001154s ]
+
+[ 2017-01-16T16:38:09+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2017-01-16T16:41:20+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-01-16T16:42:19+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+
+[ 2017-01-16T16:42:36+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+
+[ 2017-01-16T16:42:37+08:00 ] ::1 /class/index.php/Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+
+[ 2017-01-16T16:43:14+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2017-01-16T16:43:17+08:00 ] ::1 /class/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001221s ]
+
+[ 2017-01-16T16:43:24+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-01-16T16:44:01+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2017-01-16T16:44:02+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+
+[ 2017-01-16T16:44:06+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2017-01-16T16:48:27+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+
+[ 2017-01-16T16:48:29+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+
+[ 2017-01-16T16:48:35+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-01-16T16:50:22+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-01-16T16:50:28+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2017-01-16T16:50:32+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+
+[ 2017-01-16T16:50:36+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002830s ]
+
+[ 2017-01-16T16:54:13+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2017-01-16T16:54:14+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+
+[ 2017-01-16T16:54:18+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+
+[ 2017-01-16T16:54:45+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2017-01-16T16:54:47+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2017-01-16T16:55:10+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2017-01-16T16:55:11+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+
+[ 2017-01-16T16:55:15+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2017-01-16T16:55:21+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001103s ]
+
+[ 2017-01-16T16:55:26+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-01-16T17:04:43+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2017-01-16T17:04:45+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000851s ]
+
+[ 2017-01-16T17:04:48+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-16T17:04:56+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-01-16T17:05:07+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2017-01-16T17:05:08+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+
+[ 2017-01-16T17:05:10+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+
+[ 2017-01-16T17:06:55+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+
+[ 2017-01-16T17:07:00+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+
+[ 2017-01-16T17:07:03+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+
+[ 2017-01-16T17:07:40+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+
+[ 2017-01-16T17:08:29+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001654s ]
+
+[ 2017-01-16T17:12:03+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2017-01-16T17:12:54+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2017-01-16T17:13:41+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2017-01-16T17:27:21+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2017-01-16T17:27:25+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-01-16T17:29:13+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+
+[ 2017-01-16T17:31:06+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+
+[ 2017-01-16T17:31:07+08:00 ] ::1 /class/index.php/Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2017-01-16T17:31:32+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-01-16T17:31:36+08:00 ] ::1 /class/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000615s ]
+
+[ 2017-01-16T17:32:06+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001285s ]
+
+[ 2017-01-16T17:32:35+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2017-01-16T17:32:38+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+
+[ 2017-01-16T17:33:41+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001554s ]
+
+[ 2017-01-16T17:33:53+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+
+[ 2017-01-16T17:34:18+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+
+[ 2017-01-16T17:35:57+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001639s ]
+
+[ 2017-01-16T17:36:01+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2017-01-16T17:36:05+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2017-01-16T17:36:20+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-01-16T17:36:39+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+
+[ 2017-01-16T17:36:43+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001302s ]
+
+[ 2017-01-16T17:36:49+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2017-01-16T17:36:53+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+
+[ 2017-01-16T17:40:44+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-01-16T17:40:45+08:00 ] ::1 /class/index.php/Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+
+[ 2017-01-16T17:40:57+08:00 ] ::1 /class/index.php/Admin/Notice/doNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000579s ]
+
+[ 2017-01-16T17:40:57+08:00 ] ::1 /class/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2017-01-16T17:41:06+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+
+[ 2017-01-16T17:41:12+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2017-01-16T17:41:16+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2017-01-16T17:41:21+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+
+[ 2017-01-16T17:41:29+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+
+[ 2017-01-16T17:41:34+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+
+[ 2017-01-16T17:41:39+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-01-16T17:41:44+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+
+[ 2017-01-16T17:41:52+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+
+[ 2017-01-16T17:42:34+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001690s ]
+
+[ 2017-01-16T17:42:38+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2017-01-16T17:42:43+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+
+[ 2017-01-16T17:42:46+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-01-16T17:42:51+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+
+[ 2017-01-16T17:43:13+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000272s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+
+[ 2017-01-16T17:45:27+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002233s ]
+
+[ 2017-01-16T17:45:30+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001450s ]
+
+[ 2017-01-16T17:45:33+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+
+[ 2017-01-16T17:45:42+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001532s ]
+
+[ 2017-01-16T18:00:18+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+
+[ 2017-01-16T18:00:24+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+
+[ 2017-01-16T18:01:11+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+
+[ 2017-01-16T18:03:36+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0/p/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2017-01-16T18:03:45+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-01-16T18:03:49+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001415s ]
+
+[ 2017-01-16T18:03:52+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2017-01-16T18:03:56+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+
+[ 2017-01-16T18:04:23+08:00 ] ::1 /class/index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+
+[ 2017-01-16T18:04:54+08:00 ] ::1 /class/index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+
+[ 2017-01-16T18:05:28+08:00 ] ::1 /class/index.php/Admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+
+[ 2017-01-16T18:05:31+08:00 ] ::1 /class/index.php/Admin/Index/index/p/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+
+[ 2017-01-16T18:05:37+08:00 ] ::1 /class/index.php/Admin/Index/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001344s ]
+
+[ 2017-01-16T18:10:47+08:00 ] ::1 /class/index.php/Admin/Index/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2017-01-16T18:10:51+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-01-16T18:13:14+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+
+[ 2017-01-16T18:19:39+08:00 ] ::1 /class/index.php/Admin/Index/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-01-16T18:19:40+08:00 ] ::1 /class/index.php/Admin/Index/index/p/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002361s ]
+
+[ 2017-01-16T18:22:36+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-01-16T18:22:36+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001075s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T18:22:41+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001092s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index )' at line 1
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index ) 
+
+[ 2017-01-16T18:22:41+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T18:22:42+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T18:22:45+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index )' at line 1
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index ) 
+
+[ 2017-01-16T18:22:45+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T18:22:52+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T18:22:56+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+
+[ 2017-01-16T18:22:56+08:00 ] ::1 /class/index.php/Admin/Login/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T18:22:57+08:00 ] ::1 /class/index.php/Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2017-01-16T18:22:57+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T18:22:59+08:00 ] ::1 /class/index.php/Admin/Login/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T18:22:59+08:00 ] ::1 /class/index.php/Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+
+[ 2017-01-16T18:23:00+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T18:23:03+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index )' at line 1
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index ) 
+
+[ 2017-01-16T18:23:03+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000190s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T18:24:02+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T18:24:31+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001775s ]
+
+[ 2017-01-16T18:24:32+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T18:24:34+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001523s ]
+
+[ 2017-01-16T18:24:35+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T20:32:13+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2017-01-16T20:34:01+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+
+[ 2017-01-16T20:34:23+08:00 ] ::1 /class/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-01-16T20:34:27+08:00 ] ::1 /class/index.php/Admin/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2017-01-16T20:34:31+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-01-16T20:34:34+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'index )' at line 1
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index ) 
+
+[ 2017-01-16T20:35:23+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+
+[ 2017-01-16T20:35:26+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000996s ]
+
+[ 2017-01-16T20:35:28+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-01-16T20:35:33+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2017-01-16T20:35:36+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+
+[ 2017-01-16T20:36:28+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002083s ]
+
+[ 2017-01-16T20:36:37+08:00 ] ::1 /class/index.php/Admin/Index/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2017-01-16T20:45:59+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+
+[ 2017-01-16T20:46:24+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-01-16T20:48:58+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000955s ]
+
+[ 2017-01-16T20:48:58+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001471s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T20:56:27+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+
+[ 2017-01-16T21:01:46+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2017-01-16T21:01:46+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:01:47+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+
+[ 2017-01-16T21:01:48+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:02:49+08:00 ] ::1 /class/index.php/Admin/Index/index/p/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-01-16T21:02:57+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+
+[ 2017-01-16T21:02:58+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T21:03:00+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+
+[ 2017-01-16T21:03:01+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001287s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:03:02+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001195s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T21:03:39+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000269s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001364s ]
+
+[ 2017-01-16T21:04:28+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+
+[ 2017-01-16T21:04:36+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-01-16T21:04:39+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000174s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001266s ]
+
+[ 2017-01-16T21:05:07+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+
+[ 2017-01-16T21:05:22+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2017-01-16T21:05:28+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002007s ]
+
+[ 2017-01-16T21:05:30+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-01-16T21:07:28+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+
+[ 2017-01-16T21:08:06+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2017-01-16T21:08:07+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001311s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:08:12+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+
+[ 2017-01-16T21:08:13+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T21:08:29+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-01-16T21:08:29+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T21:08:54+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+
+[ 2017-01-16T21:08:55+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:09:32+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+
+[ 2017-01-16T21:09:32+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:09:37+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:10:48+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2017-01-16T21:10:49+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T21:11:12+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001411s ]
+
+[ 2017-01-16T21:11:13+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:14:10+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+
+[ 2017-01-16T21:14:11+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:15:47+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001317s ]
+
+[ 2017-01-16T21:16:06+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2017-01-16T21:16:07+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001344s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:16:33+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2017-01-16T21:16:34+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:17:09+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2017-01-16T21:17:09+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:17:22+08:00 ] ::1 /class/index.php/Admin/Notice/money
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+
+[ 2017-01-16T21:17:23+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001601s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:25:28+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000966s ]
+
+[ 2017-01-16T21:25:28+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:26:00+08:00 ] ::1 /class/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001420s ]
+
+[ 2017-01-16T21:26:01+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:26:46+08:00 ] ::1 /class/index.php/Admin/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-01-16T21:26:46+08:00 ] ::1 /class/index.php/Admin/Login/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:26:47+08:00 ] ::1 /class/index.php/Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-01-16T21:26:48+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:30:21+08:00 ] ::1 /class/index.php/Admin/Notice/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+
+[ 2017-01-16T21:30:27+08:00 ] ::1 /class/index.php/Admin/Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+
+[ 2017-01-16T21:31:12+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:31:34+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:31:47+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:35:24+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:35:27+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:35:30+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:41:22+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:46:20+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:46:34+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:46:52+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:47:53+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:48:12+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:49:01+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:50:03+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:51:43+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:52:02+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:52:38+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:53:36+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:53:45+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:54:11+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:54:36+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:54:42+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:55:48+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:56:08+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:56:11+08:00 ] ::1 /class/index.php/Admin/Notice/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:56:16+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T21:59:14+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T22:07:47+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T22:09:01+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T22:09:16+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T22:09:40+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T22:11:25+08:00 ] ::1 /class/index.php/Admin/Notice/select/id/index.js.map
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+ERR: 1054:Unknown column 'index.js.map' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `class_notice` WHERE ( type=index.js.map ) 
+
+[ 2017-01-16T22:12:01+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T22:13:47+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T22:13:51+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+
+[ 2017-01-16T22:14:52+08:00 ] ::1 /class/index.php/Admin/Index/index.js.map
+ERR: 非法操作:index.js.map
+

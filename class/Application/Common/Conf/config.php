@@ -9,5 +9,6 @@ return array(
 'DB_PORT' => '3306', // 端口
 'DB_PREFIX' => 'class_', // 数据库表前缀 
 'DB_CHARSET'=> 'utf8', // 字符集
-'DB_DEBUG' => TRUE, 
+'DB_DEBUG' => false,
+'TMPL_EXCEPTION_FILE' => '.../Public/error.html',
 );

@@ -14,6 +14,10 @@ class NoticeController extends Controller {
 		$this->display();
 	}
 
+	public function me(){
+		$this->display();
+	}
+
 	public function select(){
 			$notice=D('notice');
 			$type=$_GET['id'];

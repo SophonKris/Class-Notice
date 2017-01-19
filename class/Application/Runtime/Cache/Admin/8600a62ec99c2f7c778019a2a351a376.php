@@ -22,11 +22,13 @@ var logined = 0
 <style>
 .notice a  
 {  
-   color:black;  
+   color:black; 
+   font-size:20px;
+
 }
 .thank
 { 
-	 font-size:20px
+	 font-size:20px;
 }
 </style>
 <script>
@@ -46,6 +48,7 @@ search_value = '';
 			<!-- <li class="nav_site"><a href="index.html"><i></i><span></span><b></b><div class="clear"></div></a></li> -->
 			<li class="nav_about"><a href="/index.php/Notice/me"><i></i><span>ALL HERE</span><b></b><div class="clear"></div></a></li>
 			<li class="nav_help"><a href="/index.php/Notice/money"><i></i><span>捐赠我们</span><b></b><div class="clear"></div></a></li>
+
 			<li class="nav_about"><a href="/index.php/Notice/thank"><i></i><span>开源鸣谢</span><b></b><div class="clear"></div></a></li>
 		</ul>
 	</div>
@@ -93,12 +96,12 @@ search_value = '';
 					</td>
 					<td>
 						<div class="sort_sort">
-							<div class="sort_b"><a href="#" onclick="return false;"><div class="sort_b_inner"><i class="cate_sort"></i><span>开发中</span><div class="clear"></div></div></a></div>
+							<div class="sort_b"><a href="#" onclick="return false;"><div class="sort_b_inner"><i class="cate_sort"></i><span>Waiting</span><div class="clear"></div></div></a></div>
 						</div>
 					</td>
 					<td class="sort_right">
 						<div class="sort_tag">
-							<div class="sort_b"><a href="#" onclick="return false;"><div class="sort_b_inner"><i class="cate_tag"></i><span>开发中</span><div class="clear"></div></div></a></div>
+							<div class="sort_b"><a href="#" onclick="return false;"><div class="sort_b_inner"><i class="cate_tag"></i><span>Coding</span><div class="clear"></div></div></a></div>
 						</div>
 					</td>
 				</tr>
@@ -106,24 +109,65 @@ search_value = '';
 		</div>
 		
 		<div id="content">	
-			
-				
+			<div id="list">
+				<div class="wrap">
 							<!-- <a class="alist" vhref="zhengwen.html"> -->
 								
 								<div class="thank">
 								
-						
-本站全部源代码Licensed under the Apache2 license</br></br>
-Apache2开源协议：</br>
-Apache Licence是著名的非盈利开源组织Apache采用的协议。该协议和BSD类似，鼓励代码共享和尊重原作者的著作权，允许代码修改，再作为开源或商业软件发布。需要满足的条件如下</br></br><ul><li>1． 需要给用户一份Apache Licence ；</li><li>2． 如果你修改了代码，需要在被修改的文件中说明；</li><li>3． 在延伸的代码中（修改和有源代码衍生的代码中）需要带有原来代码中的协议，商标，专利声明和其他原来作者规定需要包含的说明；</li><li>4． 如果再发布的产品中包含一个Notice文件，则在Notice文件中需要带有本协议内容。你可以在Notice中增加自己的许可，但不可以表现为对Apache Licence构成更改。</li> </ul>具体的协议参考：</br></br><a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">http://www.apache.org/licenses/LICENSE-2.0</a><br /></br>
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS<br />
-FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER<br />
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</br></br>
-<p>版权所有Copyright © 2017 by Kris All rights reserved</p>
-	</div>	
-		
-	</div>
+						<font color="red">经历一个多月的艰苦开发，网站终于能够和大家见面了！</br>本站已经更新到Version2.0.1_beta.1，希望大家使用愉快，也希望大家多多提出建议。</br>
 
+Kris在这里再次感谢大家的支持 ^_^</font></br></br>
+
+<div class="notice"><a href="https://github.com/SophonKris" target="_blank">点我进入我的GITHUB开源项目(>▽<)
+</a><br /></div></br><p>_________________________</p>
+版本更新:</br></br>
+Version2.0.1_beta.1</br>
+1.新增域名绑定,方便记忆.</br>
+2.配置了APACHE服务器,增加二级域名支持.</br>
+3.调整模块布局,优化性能.</br>
+4.即将增加SEO支持.</br>
+5.异常处理调试支持.</br></br>
+
+Version1.4.0_rc.1</br>
+1.新增开源协议的详述和个人信息.</br>
+2.在尽量保证加载速度的基础上进行了美化.</br>
+3.修正了一些排版的bug.</br></br>
+Version1.3.1_Release.1</br>
+1.上传GITHUB,并进行了Release.</br>
+2.修正了一些交互的bug.</br>
+3.数据库优化.</br></br>
+Version1.2.0_beta.1</br>
+1.新增图片等多媒体上传功能.</br>
+2.数据交互设计基本完成.</br>
+3.前台数据排版优化.</br></br>
+Version1.1.2_Alpha.3</br>
+1.后台新增富文本编辑器.</br>
+2.新增后台登陆功能.</br>
+3.修复了一些bug.</br></br>
+Version1.1.0_Alpha.2</br>
+1.完成数据库设计.</br>
+2.数据库对接完成.</br></br>
+Version1.0.0_Alpha.1</br>
+1.前端调试确定,基本需求确定.
+2.前台页面设计基本完成.</br></br>
+Version0.2.0_Alpha.2</br>
+
+1.服务器配置基本完成,框架上线调试.</br></br>
+Version0.1.1_Alpha.1</br>
+1.完成基本服务器配置,框架本地调试.</br></br>
+
+	<p>_________________________</p></br></br>
+    
+	<p>商务合作(Business Cooperation)</br>
+联系人(Contact): Kris</br>
+Email: 1024796851@qq.com
+</p></br><p>_________________________</p></br></br>
+    
+	
+	版权所有Copyright © 2017 by Kris All rights reserved.
+	</div>	
+		<div class="push_msk"></div>
 	</div>
 
 	<div id="sort_content">
@@ -151,29 +195,73 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
 		<div class="asort">
 			<div class="hd">
 				<div class="wrap">
-					<div class="fl"><span>选择排序</span><div class="clear"></div></div>
+					<div class="fl"><span>Coding</span><div class="clear"></div></div>
 					<div class="fr"></div>
 					<div class="clear"></div>
 				</div>
 			</div>
-			
+			<div class="ct">
+				<div class="wrap">
+					<ul class="choose_sort">
+													<li class="a_selected" s_data="rec"><i class="s"></i><span>Coding</span><i class="e"></i></li>
+													
+											</ul>
+					<div class="clear"></div>
+				</div>
+			</div>
 		</div>
 
 		<div class="asort">
 			<div class="hd">
 				<div class="wrap">
-					<div class="fl"><i></i><span>留言墙</span><div class="clear"></div></div>
+					<div class="fl"><i></i><span>Loding</span><div class="clear"></div></div>
 					<div class="fr"></div>
 					<div class="clear"></div>
 				</div>
 			</div>
-			
+			<div class="ct">
+				<div class="wrap">
+					<!--<h4 class="cate_trade"><i></i><span>行业</span></h4>-->
+					<ul>
+												
+											</ul>
+					<div class="clear"></div>
+				</div>
+			</div>
 		</div>
 		
+	</div>
 	
-	
-	
-	
+	<div id="newwrap_t" class="newwrap">
+		<div class="newwrap_msk"></div>
+		<iframe id="newwrap" frameborder="0" width="100%" height="100%"></iframe>
+	</div>
+	<div id="reg_index">
+		<div class="reg_bar">
+			<div class="wrap">
+				<span class="fl"><i></i>注册帐号</span>
+				<i class="reg_bar_close fr"></i>
+				<div class="clear"></div>
+			</div>
+		</div>
+		<!-- <div class="wrap reg_ct">
+			<p>您可以选择以下第三方帐号直接登录uehtml<br />一分钟完成注册</p>
+			<a href="#" id="weibo_app"><span><i></i>微博帐号登录</span></a>
+			<a href="#" id="qq_connect"><span><i></i>QQ&nbsp;&nbsp;帐号登录</span></a>
+		</div> -->
+	</div>
+	<div class="loading_dark"></div>
+	<div id="loading_mask">
+		<div class="loading_mask">
+			<ul class="anm">
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+		</div>
+	</div>
 	<script language="javascript" src="/Public/Js/zepto.min.js"></script>
 	<script language="javascript" src="/Public/Js/fx.js"></script>
 	<script language="javascript" src="/Public/Js/script.js"></script>

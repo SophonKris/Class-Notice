@@ -5,9 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
 <meta name="viewport" content="width=device-width, initial-scale=0.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 <meta name="keywords" content="" />
-<meta name="description" content="设计师网站">
+<meta name="description" content="">
 <meta name="author" content="" />
-<link rel="stylesheet" type="text/css" href="/class/Public/Css/style.css" />
+<link rel="stylesheet" type="text/css" href="/Public/Css/style.css" />
 <meta content="yes" name="apple-mobile-web-app-capable">
 <meta content="black" name="apple-mobile-web-app-status-bar-style">
 <meta content="telephone=no" name="format-detection">
@@ -42,10 +42,11 @@ search_value = '';
 			</form> -->
 		</div>
 		<ul>
-			<li class="nav_index menu_cur"><a href="/class/index.php/Admin/Index/index"><i></i><span>首页</span><b></b><div class="clear"></div></a></li>
+			<li class="nav_index menu_cur"><a href="/index.php/Index/index"><i></i><span>首页</span><b></b><div class="clear"></div></a></li>
+			<li class="nav_about"><a href="/index.php/Notice/me"><i></i><span>ALL HERE</span><b></b><div class="clear"></div></a></li>
 			<!-- <li class="nav_site"><a href="index.html"><i></i><span></span><b></b><div class="clear"></div></a></li> -->
-			<li class="nav_help"><a href="/class/index.php/Admin/Notice/money"><i></i><span>捐赠我们</span><b></b><div class="clear"></div></a></li>
-			<li class="nav_about"><a href="/class/index.php/Admin/Notice/thank"><i></i><span>开源鸣谢</span><b></b><div class="clear"></div></a></li>
+			<li class="nav_help"><a href="/index.php/Notice/money"><i></i><span>捐赠我们</span><b></b><div class="clear"></div></a></li>
+			<li class="nav_about"><a href="/index.php/Notice/thank"><i></i><span>开源鸣谢</span><b></b><div class="clear"></div></a></li>
 		</ul>
 	</div>
 		<div id="user">
@@ -57,7 +58,7 @@ search_value = '';
 				</div>
 			</div> -->
 			<div class="pd10">
-				<form method="post" action="/class/index.php/Admin/Login/index">
+				<form method="post" action="/index.php/Login/index">
 					<div class="login_b_i">
 						<div class="login_input">
 							<div class="login_user"><input type="text" name="username" placeholder="帐号" /><i></i></div>
@@ -92,12 +93,12 @@ search_value = '';
 					</td>
 					<td>
 						<div class="sort_sort">
-							<div class="sort_b"><a href="#" onclick="return false;"><div class="sort_b_inner"><i class="cate_sort"></i><span>开发中</span><div class="clear"></div></div></a></div>
+							<div class="sort_b"><a href="#" onclick="return false;"><div class="sort_b_inner"><i class="cate_sort"></i><span>Waiting</span><div class="clear"></div></div></a></div>
 						</div>
 					</td>
 					<td class="sort_right">
 						<div class="sort_tag">
-							<div class="sort_b"><a href="#" onclick="return false;"><div class="sort_b_inner"><i class="cate_tag"></i><span>留言墙</span><div class="clear"></div></div></a></div>
+							<div class="sort_b"><a href="#" onclick="return false;"><div class="sort_b_inner"><i class="cate_tag"></i><span>Coding</span><div class="clear"></div></div></a></div>
 						</div>
 					</td>
 				</tr>
@@ -116,8 +117,8 @@ search_value = '';
 	^_^</font></br></br>
 	本站开发者遵循Apache2开源协议发布本站，并提供免费使用。</br></br>
     
-	<img height="100%" width="100%" src="/class/Public/Image/捐赠.jpg" alt=""></br></br>
-	版权所有Copyright © 2017 All rights reserved.
+	<img height="100%" width="100%" src="/Public/Image/捐赠.jpg" alt=""></br></br>
+	版权所有Copyright © 2017 by Kris All rights reserved.
 	</div>	
 		<div class="push_msk"></div>
 	</div>
@@ -134,8 +135,8 @@ search_value = '';
 			<div class="ct">
 				<div class="wrap">
 					<ul class="choose_cate">
-												<li style="font-weight:700;" c_data="1" style="background:#f7f7f7;"><i style="margin-right:0;background:none;width:0;" class="s"></i><span>通知类型</span></li>
-															<div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/class/index.php/Admin/Notice/select/id/0">教务网信息</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/class/index.php/Admin/Notice/select/id/1">各科作业通知</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/class/index.php/Admin/Notice/select/id/2">考试信息</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/class/index.php/Admin/Notice/select/id/3">课程安排</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/class/index.php/Admin/Notice/select/id/4">其他</a></li></div>
+												<!-- <li style="font-weight:700;" c_data="1" style="background:#f7f7f7;"><i style="margin-right:0;background:none;width:0;" class="s"></i><span>通知类型</span></li>
+															<div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/index.php/Admin/Notice/select/id/0">教务网信息</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/index.php/Admin/Notice/select/id/1">各科作业通知</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/index.php/Admin/Notice/select/id/2">考试信息</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/index.php/Admin/Notice/select/id/3">课程安排</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/index.php/Admin/Notice/select/id/4">其他</a></li></div> -->
 															
 	
 															
@@ -147,7 +148,7 @@ search_value = '';
 		<div class="asort">
 			<div class="hd">
 				<div class="wrap">
-					<div class="fl"><span>选择排序</span><div class="clear"></div></div>
+					<div class="fl"><span>Coding</span><div class="clear"></div></div>
 					<div class="fr"></div>
 					<div class="clear"></div>
 				</div>
@@ -155,7 +156,7 @@ search_value = '';
 			<div class="ct">
 				<div class="wrap">
 					<ul class="choose_sort">
-													<li class="a_selected" s_data="rec"><i class="s"></i><span>最新推荐</span><i class="e"></i></li>
+													<li class="a_selected" s_data="rec"><i class="s"></i><span>Coding</span><i class="e"></i></li>
 													
 											</ul>
 					<div class="clear"></div>
@@ -166,7 +167,7 @@ search_value = '';
 		<div class="asort">
 			<div class="hd">
 				<div class="wrap">
-					<div class="fl"><i></i><span>留言墙</span><div class="clear"></div></div>
+					<div class="fl"><i></i><span>Loding</span><div class="clear"></div></div>
 					<div class="fr"></div>
 					<div class="clear"></div>
 				</div>
@@ -214,9 +215,9 @@ search_value = '';
 			</ul>
 		</div>
 	</div>
-	<script language="javascript" src="/class/Public/Js/zepto.min.js"></script>
-	<script language="javascript" src="/class/Public/Js/fx.js"></script>
-	<script language="javascript" src="/class/Public/Js/script.js"></script>
+	<script language="javascript" src="/Public/Js/zepto.min.js"></script>
+	<script language="javascript" src="/Public/Js/fx.js"></script>
+	<script language="javascript" src="/Public/Js/script.js"></script>
 	
 </body>
 </html>

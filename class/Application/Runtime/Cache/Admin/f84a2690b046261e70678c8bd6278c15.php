@@ -6,9 +6,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
 <meta name="viewport" content="width=device-width, initial-scale=0.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 <meta name="keywords" content="" />
-<meta name="description" content="设计师网站">
+<meta name="description" content="">
 <meta name="author" content="" />
-<link rel="stylesheet" type="text/css" href="/class/Public/Css/style.css" />
+<link rel="stylesheet" type="text/css" href="/Public/Css/style.css" />
 <meta content="yes" name="apple-mobile-web-app-capable">
 <meta content="black" name="apple-mobile-web-app-status-bar-style">
 <meta content="telephone=no" name="format-detection">
@@ -25,7 +25,7 @@ var logined = 0
 {  
    color:black;  
 }
-.thank
+.content
 { 
 	 font-size:18px;
 	  background:#fff;
@@ -46,10 +46,10 @@ search_value = '';
 			</form> -->
 		</div>
 		<ul>
-			<li class="nav_index menu_cur"><a href="/class/index.php/Admin/Index/index"><i></i><span>首页</span><b></b><div class="clear"></div></a></li>
+			<li class="nav_index menu_cur"><a href="/index.php/Index/index"><i></i><span>首页</span><b></b><div class="clear"></div></a></li>
 			<!-- <li class="nav_site"><a href="index.html"><i></i><span></span><b></b><div class="clear"></div></a></li> -->
-			<li class="nav_help"><a href="/class/index.php/Admin/Notice/money"><i></i><span>捐赠我们</span><b></b><div class="clear"></div></a></li>
-			<li class="nav_about"><a href="/class/index.php/Admin/Notice/thank"><i></i><span>开源鸣谢</span><b></b><div class="clear"></div></a></li>
+			<li class="nav_help"><a href="/index.php/Notice/money"><i></i><span>捐赠我们</span><b></b><div class="clear"></div></a></li>
+			<li class="nav_about"><a href="/index.php/Notice/thank"><i></i><span>开源鸣谢</span><b></b><div class="clear"></div></a></li>
 		</ul>
 	</div>
 		<div id="user">
@@ -61,7 +61,7 @@ search_value = '';
 				</div>
 			</div> -->
 			<div class="pd10">
-				<form method="post" action="/class/index.php/Admin/Login/index">
+				<form method="post" action="/index.php/Login/index">
 					<div class="login_b_i">
 						<div class="login_input">
 							<div class="login_user"><input type="text" name="username" placeholder="帐号" /><i></i></div>
@@ -80,7 +80,7 @@ search_value = '';
 	<div id="header">
 		<div class="wrap">
 			<i class="menu_open"></i>
-			<div class="logo"><a href="http://www.cssmoban.com/" title=""><!-- <img src="css/logo.png" /> --></a></div>
+			<div class="logo"><a href="" title=""><!-- <img src="css/logo.png" /> --></a></div>
 			<i class="search_open"></i>
 		</div>
 		<div class="logo_msk"></div>
@@ -120,21 +120,21 @@ search_value = '';
      padding-bottom: 6px; 
      background-color: #99ccff; 
      padding-left: 20px; 
-     padding-right: 50px; 
+     padding-right: 20px; 
      color: #0000ff; 
      padding-top: 6px; 
      box-shadow: 10px 10px 5px #888888;"
-><strong><span style="font-size: 18px;">欢迎来到自动化154班专属站点！〒▽〒</span></strong></span></p></br></br>
+><strong><span style="font-size: 18px;">欢迎来到自动化154班专属站点〒▽〒</span></strong></span></p></br></br>
 						<div>
 						<?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><p>通知摘要：</p><?php echo ($vo["title"]); ?></br>  <!-- <a href="/class/index.php/Edit/edit/id/39">编辑</a><br/> -->
                         <p>通知内容：</p></br><p><?php echo ($vo["content"]); ?></p></br>
                         <p>发布时间：</p><?php echo (date("Y m d H:i:s" , $vo["time"])); ?><br/>
 
                         <p>发布人：</p><?php echo ($vo["name"]); ?>                        <!-- <p>相关文件：</p><br/> -->
-                        <p>——————————————————————</p>
+                        <p>______________________</p>
                         <br/><?php endforeach; endif; else: echo "" ;endif; ?>
 						</div>
-												<style>
+                        <style>
 
 .re_page2{ width:auto; height:30px; padding-right:10px; padding-top:10px; float:left;}
 .re_page2 a { text-decoration: none; border: 1px solid #CCC; padding: 5px; }
@@ -150,6 +150,7 @@ search_value = '';
 
  </div></div></div>
 					<div>
+							
 								<div class="clear"></div>
 							
 						</div>
@@ -175,7 +176,7 @@ search_value = '';
 				<div class="wrap">
 					<ul class="choose_cate">
 												<li style="font-weight:700;" c_data="1" style="background:#f7f7f7;"><i style="margin-right:0;background:none;width:0;" class="s"></i><span>通知类型</span></li>
-															<div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/class/index.php/Admin/Notice/select/id/0">教务网信息</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/class/index.php/Admin/Notice/select/id/1">各科作业通知</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/class/index.php/Admin/Notice/select/id/2">考试信息</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/class/index.php/Admin/Notice/select/id/3">课程安排</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/class/index.php/Admin/Notice/select/id/4">其他</a></li></div>
+															<div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/index.php/Notice/select/id/0">教务网信息</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/index.php/Notice/select/id/1">各科作业通知</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/index.php/Notice/select/id/2">考试信息</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/index.php/Notice/select/id/3">课程安排</a></li></div><div class="notice"><li c_data="2"><i style="background:none;width:10px;margin-right:0;" class="s"></i><a href="/index.php/Notice/select/id/4">其他</a></li></div>
 															
 	
 															
@@ -260,9 +261,9 @@ search_value = '';
 			</ul>
 		</div>
 	</div>
-	<script language="javascript" src="/class/Public/Js/zepto.min.js"></script>
-	<script language="javascript" src="/class/Public/Js/fx.js"></script>
-	<script language="javascript" src="/class/Public/Js/script.js"></script>
+	<script language="javascript" src="/Public/Js/zepto.min.js"></script>
+	<script language="javascript" src="/Public/Js/fx.js"></script>
+	<script language="javascript" src="/Public/Js/script.js"></script>
 	
 </body>
 </html>
